@@ -37,4 +37,4 @@ Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/
 - Agradeço a todos os colaboradores que contribuíram para este projeto com sugestões, correções e melhorias.
 
 **Exemplo da Animação:**
-[Inserir uma captura de tela ou gif animado demonstrando a animação]
+![Exemplo de Animação](./gif.gif)
