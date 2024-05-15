@@ -1,4 +1,4 @@
-**Título do Projeto: HTML/CSS Animation Playground**
+**Título do Projeto: HTML/CSS Eye Animation**
 
 **Descrição:**
 Este projeto é uma animação criada em HTML e CSS, desenvolvida com o propósito de praticar habilidades avançadas de CSS e demonstrar conceitos de animação para web. A animação é simples, mas ilustra diversos recursos e técnicas que podem ser explorados e expandidos para criar animações mais complexas.
