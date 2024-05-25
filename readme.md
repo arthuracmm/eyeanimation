@@ -1,7 +1,7 @@
 **Título do Projeto: HTML/CSS Eye Animation**
 
 **Descrição:**
-Este projeto é uma animação criada em HTML e CSS, desenvolvida com o propósito de praticar habilidades avançadas de CSS e demonstrar conceitos de animação para web. A animação é simples, mas ilustra diversos recursos e técnicas que podem ser explorados e expandidos para criar animações mais complexas.
+Este projeto é uma animação criada em HTML e CSS, desenvolvida com o propósito de praticar habilidades avançadas de CSS e demonstrar conceitos de animação para web, realizei a primeira coisa que passou por minha cabeça pensando ser impossivel, um olho piscar e se movimentar, mas no fim rolou tudo tranquilo e consegui realizar, mesmo com pouca experiência.
 
 **Instruções de Uso:**
 1. Clone este repositório em sua máquina local.
