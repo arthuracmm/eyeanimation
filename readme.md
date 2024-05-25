@@ -26,11 +26,8 @@ Se você deseja contribuir para este projeto, você pode seguir os seguintes pas
 Este projeto é fornecido "como está", sem garantias expressas ou implícitas de qualquer tipo. O autor não assume responsabilidade por quaisquer danos resultantes do uso deste software.
 
 **Autor:**
-[Seu Nome]
-[Seu Email]
-
-**Licença:**
-Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT). Consulte o arquivo `LICENSE` para obter mais informações.
+[Acm]
+[arthurcesarmarcelino@gmail.com]
 
 **Agradecimentos:**
 - Agradeço à faculdade [Nome da Faculdade] por fornecer esta atividade prática para praticarmos nossas habilidades em HTML e CSS.
