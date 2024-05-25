@@ -12,7 +12,6 @@ Este projeto é uma animação criada em HTML e CSS, desenvolvida com o propósi
 **Recursos Utilizados:**
 - HTML5
 - CSS3 (incluindo transformações, transições e animações)
-- JavaScript (opcional, se necessário para funcionalidades específicas)
 
 **Como Contribuir:**
 Se você deseja contribuir para este projeto, você pode seguir os seguintes passos:
@@ -30,7 +29,7 @@ Este projeto é fornecido "como está", sem garantias expressas ou implícitas d
 [arthurcesarmarcelino@gmail.com]
 
 **Agradecimentos:**
-- Agradeço à faculdade [Nome da Faculdade] por fornecer esta atividade prática para praticarmos nossas habilidades em HTML e CSS.
+- Agradeço à faculdade Fatec Franca, por fornecer esta atividade prática para praticarmos nossas habilidades em HTML e CSS.
 - Agradeço a todos os colaboradores que contribuíram para este projeto com sugestões, correções e melhorias.
 
 **Exemplo da Animação:**
